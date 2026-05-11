@@ -5,7 +5,7 @@
 			<value>OutsideAmbMan</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>0</value>
 		</property>
 		<relationship name="folder">
 			<destination>{9402cc33-c12e-4bdd-9bd2-e24c532712fa}</destination>
