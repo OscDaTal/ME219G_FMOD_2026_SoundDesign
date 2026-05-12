@@ -19,9 +19,24 @@
 	</object>
 	<object class="MixerBusEffectChain" id="{479921a8-d229-4fe5-a87b-7186e9269277}">
 		<relationship name="effects">
+			<destination>{b1a3a295-cf0e-45ca-9066-8e3a7b69e0ce}</destination>
 			<destination>{7b2543ad-96ef-4919-8071-c83a3fcbdd44}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{0a00f79f-09e8-4be8-8aca-34a9d3c9362e}" />
+	<object class="MultibandEqEffect" id="{b1a3a295-cf0e-45ca-9066-8e3a7b69e0ce}">
+		<property name="wetDryEnabled">
+			<value>true</value>
+		</property>
+		<property name="wetMix">
+			<value>0</value>
+		</property>
+		<property name="filterTypeA">
+			<value>14</value>
+		</property>
+		<property name="frequencyA">
+			<value>677.211731</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{7b2543ad-96ef-4919-8071-c83a3fcbdd44}" />
 </objects>
