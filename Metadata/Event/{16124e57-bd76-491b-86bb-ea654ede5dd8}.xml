@@ -131,7 +131,7 @@
 			<value>0.49278911564625849</value>
 		</property>
 		<property name="startOffset">
-			<value>2.5</value>
+			<value>5.5</value>
 		</property>
 		<relationship name="modulators">
 			<destination>{5d72ba69-d1e7-4dd3-8695-761747a48d48}</destination>
@@ -143,7 +143,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{b57fad30-4827-4826-80fa-8ef6b3bd9cfe}">
 		<property name="volume">
-			<value>-3.5</value>
+			<value>-1</value>
 		</property>
 		<property name="name">
 			<value>Energy</value>
@@ -184,7 +184,7 @@
 			<value>pitch</value>
 		</property>
 		<property name="amount">
-			<value>9.5</value>
+			<value>6</value>
 		</property>
 	</object>
 	<object class="LFOModulator" id="{01b009db-0f04-49cf-9123-47e2648b6951}">
@@ -208,6 +208,9 @@
 	<object class="MixerBusFader" id="{c5d31929-94a9-47f1-88bc-d7f66eef4e3d}" />
 	<object class="MixerBusFader" id="{4ed047ca-09f1-4a35-9eb8-2aef12d392af}" />
 	<object class="MultibandEqEffect" id="{78fe3b68-b557-4f4f-8f6a-459a06ab3d4c}">
+		<property name="bypass">
+			<value>true</value>
+		</property>
 		<property name="filterTypeA">
 			<value>7</value>
 		</property>
@@ -215,16 +218,16 @@
 			<value>1</value>
 		</property>
 		<property name="frequencyA">
-			<value>283.661224</value>
+			<value>255.746063</value>
 		</property>
 		<property name="frequencyB">
-			<value>799.300476</value>
+			<value>21999.9902</value>
 		</property>
 		<property name="qualityB">
-			<value>0.675840199</value>
+			<value>0.730292499</value>
 		</property>
 		<property name="gainA">
-			<value>-17.8504677</value>
+			<value>-15.2498989</value>
 		</property>
 		<property name="gainB">
 			<value>-30</value>
