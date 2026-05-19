@@ -105,6 +105,9 @@
 		<property name="length">
 			<value>0.49278911564625849</value>
 		</property>
+		<property name="startOffset">
+			<value>1.5</value>
+		</property>
 		<relationship name="modulators">
 			<destination>{07e38812-6305-423e-ad95-e833b0296b05}</destination>
 		</relationship>
@@ -208,9 +211,6 @@
 	<object class="MixerBusFader" id="{c5d31929-94a9-47f1-88bc-d7f66eef4e3d}" />
 	<object class="MixerBusFader" id="{4ed047ca-09f1-4a35-9eb8-2aef12d392af}" />
 	<object class="MultibandEqEffect" id="{78fe3b68-b557-4f4f-8f6a-459a06ab3d4c}">
-		<property name="bypass">
-			<value>true</value>
-		</property>
 		<property name="filterTypeA">
 			<value>7</value>
 		</property>
@@ -218,7 +218,7 @@
 			<value>1</value>
 		</property>
 		<property name="frequencyA">
-			<value>255.746063</value>
+			<value>221.218552</value>
 		</property>
 		<property name="frequencyB">
 			<value>21999.9902</value>
@@ -227,7 +227,7 @@
 			<value>0.730292499</value>
 		</property>
 		<property name="gainA">
-			<value>-15.2498989</value>
+			<value>-8</value>
 		</property>
 		<property name="gainB">
 			<value>-30</value>

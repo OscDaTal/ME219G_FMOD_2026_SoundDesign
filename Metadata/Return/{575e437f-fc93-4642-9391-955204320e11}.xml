@@ -23,26 +23,38 @@
 	</object>
 	<object class="MixerBusPanner" id="{d43a8b33-141d-4e44-9443-9808ffca97fc}" />
 	<object class="SFXReverbEffect" id="{317ba516-79fc-4184-8f48-356ec2771bf3}">
+		<property name="decayTime">
+			<value>4400</value>
+		</property>
 		<property name="earlyDelay">
-			<value>162</value>
+			<value>21.5</value>
 		</property>
 		<property name="lateDelay">
 			<value>88</value>
 		</property>
 		<property name="HFDecayRatio">
-			<value>54</value>
+			<value>78.5</value>
 		</property>
 		<property name="diffusion">
-			<value>79</value>
+			<value>0</value>
+		</property>
+		<property name="density">
+			<value>28</value>
+		</property>
+		<property name="lowShelfFrequency">
+			<value>310</value>
 		</property>
 		<property name="highCut">
-			<value>760</value>
+			<value>1350</value>
 		</property>
 		<property name="earlyLateMix">
-			<value>94</value>
+			<value>42</value>
 		</property>
 		<property name="wetLevel">
-			<value>-12.3000002</value>
+			<value>-16.5</value>
+		</property>
+		<property name="dryLevel">
+			<value>-80</value>
 		</property>
 	</object>
 	<object class="DelayEffect" id="{c80d4ddb-7c49-4bbb-971d-46d0f99582d9}">
@@ -51,6 +63,9 @@
 		</property>
 		<property name="feedback">
 			<value>21.5</value>
+		</property>
+		<property name="level">
+			<value>-13.5</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{96c6627d-65cf-41d1-8f4e-4e4635e818c6}" />
