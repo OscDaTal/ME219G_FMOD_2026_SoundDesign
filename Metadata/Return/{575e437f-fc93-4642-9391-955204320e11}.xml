@@ -18,13 +18,14 @@
 		<relationship name="effects">
 			<destination>{317ba516-79fc-4184-8f48-356ec2771bf3}</destination>
 			<destination>{c80d4ddb-7c49-4bbb-971d-46d0f99582d9}</destination>
+			<destination>{40ca08de-d628-4fbe-acd2-3ae47c8acf79}</destination>
 			<destination>{96c6627d-65cf-41d1-8f4e-4e4635e818c6}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{d43a8b33-141d-4e44-9443-9808ffca97fc}" />
 	<object class="SFXReverbEffect" id="{317ba516-79fc-4184-8f48-356ec2771bf3}">
 		<property name="decayTime">
-			<value>4400</value>
+			<value>450</value>
 		</property>
 		<property name="earlyDelay">
 			<value>21.5</value>
@@ -51,21 +52,26 @@
 			<value>42</value>
 		</property>
 		<property name="wetLevel">
-			<value>-16.5</value>
+			<value>-23</value>
+		</property>
+	</object>
+	<object class="DelayEffect" id="{c80d4ddb-7c49-4bbb-971d-46d0f99582d9}">
+		<property name="delay">
+			<value>200</value>
+		</property>
+		<property name="feedback">
+			<value>61</value>
 		</property>
 		<property name="dryLevel">
 			<value>-80</value>
 		</property>
 	</object>
-	<object class="DelayEffect" id="{c80d4ddb-7c49-4bbb-971d-46d0f99582d9}">
-		<property name="delay">
-			<value>740</value>
+	<object class="MultibandEqEffect" id="{40ca08de-d628-4fbe-acd2-3ae47c8acf79}">
+		<property name="frequencyA">
+			<value>720.641174</value>
 		</property>
-		<property name="feedback">
-			<value>21.5</value>
-		</property>
-		<property name="level">
-			<value>-13.5</value>
+		<property name="qualityA">
+			<value>1.08896303</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{96c6627d-65cf-41d1-8f4e-4e4635e818c6}" />

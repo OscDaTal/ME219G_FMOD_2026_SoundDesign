@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{e85ed08f-69c0-4ce6-834a-61837dc82ec9}">
+		<property name="assetPath">
+			<value>!My sample pack/IRs/Fokke van Saane/Factory Hall/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>

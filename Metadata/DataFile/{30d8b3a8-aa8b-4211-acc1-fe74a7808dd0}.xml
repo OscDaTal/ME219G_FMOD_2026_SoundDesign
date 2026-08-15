@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{30d8b3a8-aa8b-4211-acc1-fe74a7808dd0}">
+		<property name="assetPath">
+			<value>!My sample pack/IRs/peaks/Realverb 2.wav.reapeaks</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>

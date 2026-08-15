@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{0911d559-d326-4182-89dc-d82b13e48551}">
+		<property name="assetPath">
+			<value>!My sample pack/IRs/Fokke van Saane/Lexicon Model 200/Inverse 1/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{99e3f629-1a12-49b0-8913-1f97425d0ed6}">
+		<property name="assetPath">
+			<value>!My sample pack/IRs/Fokke van Saane/Roland RE-201 Space Echo/Space Echo 1.jpg</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{9ec533c6-dc8d-44f2-aa57-6d39d44c627c}">
+		<property name="assetPath">
+			<value>!My sample pack/IRs/Fokke van Saane/peaks/Schellingwoude.L.L.wav.reapeaks</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>

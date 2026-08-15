@@ -1,0 +1,81 @@
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<                                                                                      <
+<      <<<<<<<<      <      <<<<<<<<      <<       <<      <<<<<<<<      <             <
+<      <      <      <      <             < <     < <      <             <             <
+<      <      <      <      <             <  <   <  <      <             <             <
+<      <      <      <      <             <   < <   <      <             <             <
+<      <<<<<<<<      <      <<<<<<<<      <    <    <      <<<<<<<<      <             <
+<      <      <      <      <             <         <      <             <             <
+<      <      <      <      <             <         <      <             <             <
+<      <      <      <      <             <         <      <             <             <
+<      <<<<<<<<      <      <<<<<<<<      <         <      <<<<<<<<      <<<<<<<<      <
+<                                                                                      <
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+All Files (c) copyright by BIEMEL 2000
+DATE: 06.01.2000
+
+I´m an addict to Sonic Foundry´s Acoustic Mirror. 
+The great thing about this plug is, that you can create MIRRORS of your sound-equipment 
+and you can overlay it to the one you choose. 
+I did these with all my equipment, I collected now for years and these are the files:
+I did this with my T.C. Finalizer Plus for best DA-AD conversion. 
+You can´t match the original, because you´ll have to get about 1000 mirrors to come close 
+to what you can do with a JoeMeek or a Marshall or a UREI and ..... 
+but the sound is very, very similar.
+
+For compression use Waves RCL or Timeworks Compressor-X.
+
+For the amp-simulations you have to record your bass or guitar 
+directly with a little analog (or t.c. finalizer) compression 
+and then try distortion with Steinberg´s QuadraFuzz 
+and overlay the amp-sound you´d like. 
+WOW, you´ll be amazed!!!
+
+
+You´ll have to use compression or distortion first, the normalize the sound to -1dB, 
+Sonic Foundry says then you´re sure there will be no digital software distortion. 
+Then use the SONIC FOUNDRY Acoustic Mirror Plug-In, set it to the highest resolution, 
+which is setting quality-speed = 5, then you´ll get the best results. 
+Adjust the WET OUT fader, so that there is no data over 0dB 
+(I recommend to set the dry out to inf. for best results, but feel free to experiment)
+
+
+Enjoy This!!!
+
+<Ampeg SVT D-I-Out.wav
+<Ampeg SVT D-I-Out Hot.wav
+NEW:
+<Ampeg SVT SM57 off Axis.wav
+<Ampeg SVT Beta52.wav
+<Ampeg SVT Bright Beta52.wav
+<Ampeg SVT Neumann.wav
+<Ampeg SVT Bright Neumann.wav
+
+AMP Simulation Impulse for Acoustic Mirror
+
+(c) 12.01.2000 Copyright by BIEMEL
+
+Legendary Bass-Head Simulation.
+All Tube PreAmp!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+the famous Ampeg SVT legendary Bass-head here (Retail Price: 1500$) 
+
+Bass sound at it´s best. Your sound gets strong and heard through the mix. 
+Heard on nearly every cd made in the last 30 years. 
+A must have sound!!!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+Check my new SITE on:
+http://www.geocities.com/biemel_2000/
+
+still working hard
+BIEMEL

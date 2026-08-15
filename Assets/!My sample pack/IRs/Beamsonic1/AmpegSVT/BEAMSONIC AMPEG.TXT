@@ -1,0 +1,117 @@
+
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<                                                                                                 >
+<                                                                                                 >
+<    $$$$$$$$   $$$$$$$$       $        $$      $$    $$$$$$     $$$$$    $$    $$  $$    $$$$$   >
+<    $$     $$  $$            $$$       $$$    $$$   $$     $   $$   $$   $$$   $$  $$   $$       >
+<    $$     $$  $$           $$ $$      $$$$  $$$$    $$       $$     $$  $$$$  $$  $$  $$        >
+<    $$$$$$$$    $$$$$$$    $$   $$     $$ $$$$ $$     $$$$    $$     $$  $$ $$ $$  $$  $$        >
+<    $$     $$  $$         $$$$$$$$$    $$      $$        $$   $$     $$  $$  $$$$  $$  $$        >
+<    $$     $$  $$        $$       $$   $$      $$   $     $$   $$   $$   $$   $$$  $$   $$       >
+<    $$$$$$$$   $$$$$$$$ $$         $$  $$      $$    $$$$$$     $$$$$    $$    $$  $$    $$$$$   >
+<                                                                                                 >
+<                                                                                                 >
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+
+                    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+	            &&&&&&& All Files © copyright by BEAMSONIC 2000 &&&&&&&&
+		    &&&&&&&          DATE: 28.01.2000               &&&&&&&&
+                    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+
+
+What can I say: Yes, I´m an addict .... to ACOUSTIC MIRROR of SONIC FOUNDRY. 
+The great thing about this plug-in is, that you can create MIRRORS of your sound-equipment and you
+can overlay or mix it to the file you like.
+I mirrored nearly all my equipment, that I have collected now for years and .... 
+these files are the result.
+
+On Producing A MIRROR:
+For best DA-AD conversion I used my T.C. Finalizer Plus. For amps- & microphone-mirrors I used my 
+SPL GoldMike, like I would make a recording. For mirroring the microphones I used my GENELEC-Speaker
+system, because they have a nearly flat response and even work at 30Hz.
+
+Someone said: "You can´t match the original, because you´ll have to get about 1000 mirrors to come 
+close to what you can do with a JoeMeek or a Marshall or a UREI." 
+but I have to say: the sound is very, very similar.
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+On Using The Studio-Mirrors: You´ll get no compression effect, you´ll get the sound-character of 
+	the original device when the effect works. You´ll have to use a different compressor: I´ll 
+	recommend to use Waves RCL or Timeworks Compressor-X.
+
+On Using The Amp-Mirrors: You´ll get no distortion effect. Try distortion with Steinberg FuzzBox 
+	or QuadraFuzz or RedValve IT and then overlay the mirror of the amp you´d like.
+	WOW, you´ll be amazed!!!
+	If you´d like record your guitar or bass go direct with a little analog (or t.c.finalizer)
+	compression.
+	Download the Testfiles: "BASSandGTR.zip" (inluding a recorded 1968 Fender Jazz-Bass, 6120
+	Gretsch, 1962 Fender Stratocaster, 1980 Gibson LesPaul Heritage) from my SITE for testing!
+
+On Using the Microphone Mirrors: I included some MINUS-FILES. These files first take away the 
+	character of a SM58 or SM57 and overlays the character of the microphone you´ll choose. 
+	Otherwise you´ll get a soundmix-character of SM57/58 and the one you´ll choose and ....
+	that won´t come close to the sound of the original microphone.
+	Download the Vocal-Testfiles: "VocalSM57andSM58.zip" from my SITE for testing!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+General Information:
+
+You´ll have to use compression or distortion first, then normalize the sound to -1dB, because SONIC
+FOUNDRY say: "Then you´re sure there will be no digital software distortion." 
+
+Then use the ACOUSTIC MIRROR Plug-In, set it to the highest resolution, which is setting 
+quality-speed = 5, then you´ll get the best results. 
+You can adjust the fader "APPLY ENVELOPE AND LIMIT DECAY TO", that there is no dropout or 
+CPU-overload. Adjust the WET OUT fader, so that there is no data over 0dB.
+(I recommend to set the dry out to inf. for best results, but feel free to experiment)
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Enjoy This!!!
+
+<Ampeg SVT D-I-Out.wav
+<Ampeg SVT D-I-Out Hot.wav
+<Ampeg SVT SM57 off Axis.wav
+<Ampeg SVT Beta52.wav
+<Ampeg SVT Bright Beta52.wav
+<Ampeg SVT Neumann.wav
+<Ampeg SVT Bright Neumann.wav
+
+AMP Simulation Impulse for Acoustic Mirror
+
+Engineer: Nic Beamso
+
+© 28.01.2000  Copyright by BEAMSONIC
+
+Legendary Bass-Head Simulation.
+All Tube PreAmp!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+the famous Ampeg SVT legendary Bass-head here (Retail Price: 1500$) 
+
+Bass sound at it´s best. Your sound gets strong and heard through the mix. 
+Heard on nearly every cd made in the last 30 years. 
+A must have sound!!!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+                    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+	            &&&&&&&         Check My New SITE On:           &&&&&&&&
+		    &&&&&&&   http://www.geocities.com/beamsonic/   &&&&&&&&
+                    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+
+
+Still Working Hard
+BEAMSONIC

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{56d76265-95cd-4f92-a0c6-95c278ed9ce4}">
+		<property name="assetPath">
+			<value>!My sample pack/IRs/Fokke van Saane/Vintage Spring Reverb/Spring 2 mono/Gibbs.jpg</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>

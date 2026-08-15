@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{3150e33c-66dd-43ee-9e46-d63baf1e9d80}">
+		<property name="assetPath">
+			<value>!My sample pack/IRs/Fokke van Saane/Lexicon Model 200/Hall 3/Lexicon 200 hall 3.jpg</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>

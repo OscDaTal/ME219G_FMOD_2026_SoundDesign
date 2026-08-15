@@ -20,30 +20,36 @@
 			<destination>{ed79740e-fc0f-4a1a-a073-f591f4774f86}</destination>
 		</relationship>
 		<relationship name="snapshotProperties">
-			<destination>{e9d34a31-4193-42d6-860e-a4c5d2f4ec59}</destination>
+			<destination>{d06ab8ee-dd4b-42fc-8f78-cbb3b9591ab6}</destination>
 		</relationship>
 		<relationship name="snapshotTracks">
 			<destination>{580a7680-d09d-45a9-8646-12196777dd02}</destination>
+			<destination>{49808885-6460-466d-8ced-c582a4e938d2}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{b603c5e6-43dc-458b-966a-3a4203de80c3}" />
 	<object class="MarkerTrack" id="{d236f1b6-8c38-499c-bb5f-f8782b75c251}" />
 	<object class="Timeline" id="{85f5c3a2-3497-4cce-8fb6-bb7a18dcf299}" />
 	<object class="SnapshotMasterTrack" id="{ed79740e-fc0f-4a1a-a073-f591f4774f86}" />
-	<object class="SnapshotProperty" id="{e9d34a31-4193-42d6-860e-a4c5d2f4ec59}">
+	<object class="SnapshotProperty" id="{d06ab8ee-dd4b-42fc-8f78-cbb3b9591ab6}">
 		<property name="propertyName">
 			<value>level</value>
 		</property>
 		<property name="value">
-			<value>-15.5</value>
+			<value>-12.5</value>
 		</property>
 		<relationship name="automatableObject">
-			<destination>{6a036429-f4da-43a5-ad7d-eb4267d9fe1c}</destination>
+			<destination>{fcdcaf87-a685-409e-8bd0-676baca1c3c6}</destination>
 		</relationship>
 	</object>
 	<object class="SnapshotTrack" id="{580a7680-d09d-45a9-8646-12196777dd02}">
 		<relationship name="mixerStrip">
 			<destination>{57d83cfc-7757-4b83-a432-b7981d671322}</destination>
+		</relationship>
+	</object>
+	<object class="SnapshotTrack" id="{49808885-6460-466d-8ced-c582a4e938d2}">
+		<relationship name="mixerStrip">
+			<destination>{59909eef-1317-4572-b76b-1c98a6401174}</destination>
 		</relationship>
 	</object>
 </objects>

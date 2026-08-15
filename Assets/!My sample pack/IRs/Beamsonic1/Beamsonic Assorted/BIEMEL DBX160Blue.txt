@@ -1,0 +1,71 @@
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<                                                                                      <
+<      <<<<<<<<      <      <<<<<<<<      <<       <<      <<<<<<<<      <             <
+<      <       <     <      <             < <     < <      <             <             <
+<      <      <      <      <             <  <   <  <      <             <             <
+<      <     <       <      <             <   < <   <      <             <             <
+<      <<<<<<<       <      <<<<<<<<      <    <    <      <<<<<<<<      <             <
+<      <     <       <      <             <         <      <             <             <
+<      <      <      <      <             <         <      <             <             <
+<      <       <     <      <             <         <      <             <             <
+<      <<<<<<<<      <      <<<<<<<<      <         <      <<<<<<<<      <<<<<<<<      <
+<                                                                                      <
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+All Files (c) copyright by BIEMEL 2000
+DATE: 14.01.2000
+
+I´m an addict to Sonic Foundry´s Acoustic Mirror. 
+The great thing about this plug is, that you can create MIRRORS of your sound-equipment 
+and you can overlay it to the one you choose. 
+I did these with all my equipment, I collected now for years and these are the files:
+I did this with my T.C. Finalizer Plus for best DA-AD conversion. 
+You can´t match the original, because you´ll have to get about 1000 mirrors to come close 
+to what you can do with a JoeMeek or a Marshall or a UREI and ..... 
+but the sound is very, very similar.
+
+ 
+
+You´ll have to use compression or distortion first, the normalize the sound to -1dB, 
+Sonic Foundry says then you´re sure there will be no digital software distortion. 
+Then use the SONIC FOUNDRY Acoustic Mirror Plug-In, set it to the highest resolution, 
+which is setting quality-speed = 5, then you´ll get the best results. 
+Adjust the WET OUT fader, so that there is no data over 0dB 
+(I recommend to set the dry out to inf. for best results, but feel free to experiment)
+
+
+Enjoy This!!!
+
+<DBX 160SL Blue - High Ratio.wav
+<DBX 160SL Blue - Soft Ratio.wav
+<DBX 160SL Blue - Medium Ratio.wav
+
+Sound Character Simulation Impulse for Acoustic Mirror
+
+(c) 14.01.2000 Copyright by BIEMEL
+
+DBX Analog Stereo Compressor 160SL Blue.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+the famous DBX Analog Stereo Compressor 160SL Blue here (Retail Price: 2400$).
+
+I recommend you´ll use the Waves RENAISSANCE Compressor or Timeworks Compressor-X. 
+This is probably the cleanest Compressor on the market;
+the sound is similar to the FOCUSRITE RED3. The higher the Ratio gets the more works 
+the effect of the Compressor. Actually I don´t own this great tool, 
+I borrowed this from a friend, and now use the mirror-impulses myself for production. 
+My Recommendation for Vocals,Bass and overall mix.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+Check my new SITE on:
+http://www.geocities.com/biemel_2000/
+
+still working hard
+BIEMEL

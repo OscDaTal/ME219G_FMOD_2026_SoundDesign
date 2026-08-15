@@ -1,0 +1,19 @@
+To all users of the Roland Space Echo IR.
+
+First i hope you will enjoy this IR. Secondly i hope you will get the fever of making IR's yourself too. I make IR's and distribute them freely hoping that others will do the same.
+
+The Roland Space Echo RE-201 is an old tape echo machine using a loop of ordinairy 1/4" tape with multiple recording playback heads. Its also has a spring reverb build in. The settings 1 to 4 use the tape only, settings 5 to 11 use a combination of both. As i don't have a manual here i have no idea what the settings are, probably a combination of recording and playback heads. The last setting is the spring reverb only.
+
+For each mode-setting i looked for a nice tuning. I took in account that in Altiverb its not possible to change the dealy time of the echoes, only the repeat length. That's why i avoided settings that  are sort of tempo related, exept for mode setting 3 wich is quit long.
+
+The unit is mono, so all IR's i made of this unit are mono too. But i had good results in achieving a nice stereo effect when i used two aux channels with this IR inserted but set on another mode or a slight differend pre delay.
+
+The IR's are freeware, but all i ask is that if you make a nice cd with it you owe me a copy!
+
+Frank van der Weij kindly lended me his Space Echo.
+
+You can reach me at fokkie@xs4all.nl for all comments, both negative and positive.
+
+Have fun!
+
+Fokke van Saane

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{3db150da-42e6-4f7c-855b-ad56170dc62b}">
+		<property name="assetPath">
+			<value>!My sample pack/IRs/Beamsonic1/Beamsonic Microphones/BIEMEL.txt</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>
